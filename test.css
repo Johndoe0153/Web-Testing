@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.input {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.plus {
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.minus {
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.multiply {
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.devide {
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.result {
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+}
