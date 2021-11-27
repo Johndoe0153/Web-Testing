@@ -2,45 +2,10 @@ body {
     background-color: black;
 }
 
-.input {
+.plus, .minus, .multiply, .devide, .input, .result, .zero, .one, .two, .three,.four, .five, .six, .seven, .eight,.nine, .clear{
     height: 100px;
     width: 100px;
     text-align: center;
-    font-size: large;
-    font-weight: bold;
-}
-
-.plus {
-    height: 100px;
-    width: 100px;
-    font-size: large;
-    font-weight: bold;
-}
-
-.minus {
-    height: 100px;
-    width: 100px;
-    font-size: large;
-    font-weight: bold;
-}
-
-.multiply {
-    height: 100px;
-    width: 100px;
-    font-size: large;
-    font-weight: bold;
-}
-
-.devide {
-    height: 100px;
-    width: 100px;
-    font-size: large;
-    font-weight: bold;
-}
-
-.result {
-    height: 100px;
-    width: 100px;
     font-size: large;
     font-weight: bold;
 }
