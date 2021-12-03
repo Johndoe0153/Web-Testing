@@ -1,11 +1,23 @@
-body {
-    background-color: black;
+body{
+    background-color: #1C1D26;
+}
+h3{
+    font-weight: bold;
+    color: #FAFAFA;
 }
 
-.plus, .minus, .multiply, .devide, .input, .result, .zero, .one, .two, .three,.four, .five, .six, .seven, .eight,.nine, .clear{
+.time{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.timeset{
+    color: #121212;
+    cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
     height: 100px;
     width: 100px;
-    text-align: center;
-    font-size: large;
-    font-weight: bold;
 }

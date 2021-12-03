@@ -1,9 +1,17 @@
-let value = Number();
-
-function one() {
-    value += 1
+function fivem() {
+    setTimeout(function(){
+        alert('Time is up!');
+    },300000);
 }
 
-function result() {
-    alert(value);
+function tenm() {
+    setTimeout(function(){
+        alert('Time is up!');
+    },1800000);
+}
+
+function oneh() {
+    setTimeout(function(){
+        alert('Time is up!');
+    },3600000);
 }
