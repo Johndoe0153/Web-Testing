@@ -1,3 +1,5 @@
+document.getElementsByClassName("timer").innerHTML = minutes + "m" + second + "s";
+
 function fivem() {
     setTimeout(function(){
         alert('Time is up!');
